@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GuidePage.iml" filepath="$PROJECT_DIR$/.idea/GuidePage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RGuide-master.iml" filepath="$PROJECT_DIR$/.idea/RGuide-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.iml" filepath="$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.main.iml" filepath="$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/guide/RGuide-master.guide.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/RGuide-master.sample.unitTest.iml" />
     </modules>
   </component>
 </project>
